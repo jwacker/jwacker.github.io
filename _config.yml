@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joel Wacker / Portfolio"
 title_separator          : "-"
 name                     : &name "Joel Wacker"
-description              : &description "personal description"
+description              : &description "Computer Engineer"
 url                      : https://jwacker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwacker/jwacker.github.io"
@@ -85,8 +85,8 @@ author:
   bio              : "Computer Engineering"
   location         : "ISU"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.merriam-webster.com/dictionary/no"
+  googlescholar    : "https://www.merriam-webster.com/dictionary/no"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://www.merriam-webster.com/dictionary/no"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
