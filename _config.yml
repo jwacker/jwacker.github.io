@@ -11,7 +11,7 @@ title                    : "Joel Wacker / Portfolio"
 title_separator          : "-"
 name                     : &name "Joel Wacker"
 description              : &description "Computer Engineer"
-url                      : https://jwacker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jwacker.github.io #http://localhost:4000   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwacker/jwacker.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Joel Wacker"
   avatar           : "profile.png"
-  bio              : "Computer Engineering"
+  bio              : "Computer Engineering - Security"
   location         : "ISU"
   employer         :
-  pubmed           : "https://www.merriam-webster.com/dictionary/no"
-  googlescholar    : "https://www.merriam-webster.com/dictionary/no"
-  email            :
+  pubmed           : #"https://www.merriam-webster.com/dictionary/no"
+  googlescholar    : #"https://www.merriam-webster.com/dictionary/no"
+  email            : "jwacker@iastate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jwacker"
+  github           : #"jwacker"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://www.merriam-webster.com/dictionary/no"
+  orcid            : #"https://www.merriam-webster.com/dictionary/no"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "nope"
+  twitter          : #"nope"
   vine             :
   weibo            :
   xing             :
