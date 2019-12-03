@@ -22,6 +22,11 @@ For one of my classes, I made a stereo amplifier to power a set of my speakers. 
 
 <u><a href="/projects/amp/">Read More Here</a></u>
 
+## Network Filter [Spring 2019]
+For one of my classes, I made a single op amp circuit for a Cross Over Network. This project required 3 filters ...
+
+<u><a href="/projects/bandpass/">Read More Here</a></u>
+
 ## Senior Design [2019]
 I am currently taking CPRE 491, which is the first part of senior design. We have not finished a prototype for this class yet as we’re still in a period of research for our project. The majority of the work on this project will take place next semester in CPRE 492...
 
